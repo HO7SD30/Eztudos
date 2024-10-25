@@ -1,2 +1,0 @@
-# Eztudos
-Iztudos
