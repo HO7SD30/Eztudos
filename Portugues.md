@@ -1,0 +1,29 @@
+[Portugues]
+	- Fonética e Ortografia
+		- Fonemas; Partição silábica; tonicidade; ortoépia; prosódia; ortografia; acentuação gráfica; notações léxicas; abreviatuas; siglas e símbolos.
+	- Morfologia I
+		- Estrutura das palavras; formação das palavras; sufixos; prefixos; radicais gregos e latinos; origens das palavras da lingua portuguesa.
+	- Morfologia II
+		- Classificação e flexão das palavras variáveis: substantivo; artigo; adjetivo; numeral.
+	- Morfologia III
+		- Classificação e flexão das palavras variáveis: pronomes (classificação e colocação pronominal); verbo (número, pessoa, modo, tempo, voz), classificação (regulares, irregulares, defectivos, abudantes, auxiliares e principais e conjugação dos tempos simples).
+	- Morfologia IV
+		- Classificação das palavras invariáveis: advérbio; preposição; conjunção; interjeição; conectivos e formas variantes.
+	- Teoria da Linguagem
+		- Historia da Lingua Portuguesa; linguagem, lingua, discurso e estilo; níveis de linguagem, funções da linguagem.
+	- Semântica
+		- Significação das palavras. Sinonímia e antonímia, hiponímia e hiperonímia, polissemia, ambiguidade, homônimos e parônimos, denotação e conotação.
+	- Sintaxe I
+		- Frase, oração e período. Sitaxe do período simples: Termos essenciais da oração, termos integrantes da oração, termos acessórios da oração.
+	- Sintaxe II
+		- Sitaxe do período composto: orações coordenadas; orações principais e orações subordinadas; orações subordinadas substantivas; orações subordinadas adjetivas; orações subordinadas adverbiais; orações reduzidas; funções sintáticas do pronome relativo.
+	- Sintaxe III
+		- Sintaxe da concordância nominal e verbal.
+	- Sintaxe IV
+		- Sintaxe da regência nominal e verbal Crase.
+	- Sintaxe V
+		- Sinais de pontuação; emprego de algumas classes de palavras; emprego dos modos e dos tempos verbais;  emprego do infinitivo verbal e emprego do verbo haver.
+	- Estilística
+		- Figura de linguagem. Efeitos de texto.
+	- Leitura, interpretação e análise de textos
+		- Leitura, interpretação e análise dos significados presentes num texto e relacionamento desses com o universo em que o texto foi produzido.
